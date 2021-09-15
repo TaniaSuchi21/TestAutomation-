@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Registration Test Suite">
+
+    <test name="Registration Functional Test 1">
+        <classes>
+            <class name="com.TestNG.RegistrationTestNG"></class>
+        </classes>
+    </test>
+    <test name="Registration Functional Test 2">
+        <classes>
+            <class name="com.TestNG.DP_RegistrationTest"></class>
+        </classes>
+    </test>
+</suite>
